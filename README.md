@@ -1,1 +1,2 @@
-# npmjs-lib-test
+# My super useful TS npmjs package
+Some description. TBD...
